@@ -1,0 +1,20 @@
+[
+  {
+    "tipo": "Libro",
+    "titulo": "Introducción a la Programación en Python",
+    "autor": "John Doe",
+    "tema": "Informática",
+    "nivel": "Básico",
+    "fuente": "Editorial TechBooks",
+    "fecha_publicacion": "2020-05-10"
+  },
+  {
+    "tipo": "Sitio Web",
+    "titulo": "Khan Academy - Matemáticas",
+    "autor": "Khan Academy",
+    "tema": "Matemáticas",
+    "nivel": "Intermedio",
+    "fuente": "https://www.khanacademy.org",
+    "fecha_publicacion": "2022-01-15"
+  }
+]
