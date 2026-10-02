@@ -16,5 +16,15 @@
     "nivel": "Intermedio",
     "fuente": "https://www.khanacademy.org",
     "fecha_publicacion": "2022-01-15"
+  },
+
+  {
+   "tipo": "Artículo Científico",
+   "titulo": "Aplicaciones de la Inteligencia Artificial en Educación",
+   "autor": "María Pérez",
+   "tema": "Tecnología Educativa",
+   "nivel": "Avanzado",
+   "fuente": "Revista Educación y Tecnología",
+   "fecha_publicacion": "2021-09-30"
   }
 ]
