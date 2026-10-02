@@ -13,5 +13,6 @@ Intrucciones:
 2.- crear el entorno virtual con el comando py -m venv .venv 
 3.- activar el entorno virtual con .venv/scripts/activate
 
+-Mejoras
 
 
